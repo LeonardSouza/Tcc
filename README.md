@@ -32,7 +32,10 @@ Antes de executar o projeto, você precisará ter instalado:
 pip install streamlit torch torchvision pillow
 pip install -r requirements.txt
 ```
-3. Execute o aplicativo:
+
+### Execução
+
+Execute o aplicativo com o seguinte comando:
 ```bash
 streamlit run App.py
 ```
